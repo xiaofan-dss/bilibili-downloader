@@ -1,0 +1,25 @@
+# 核心爬虫依赖
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+Pillow==10.0.1
+urllib3==2.0.7
+tqdm==4.66.1
+
+# Playwright浏览器自动化
+playwright==1.40.0
+
+# 异步HTTP和文件操作（新增）
+aiohttp==3.9.1
+aiofiles==23.2.0
+
+# 数据处理
+pandas==2.1.4
+numpy==1.24.3
+
+# 配置和工具
+pyyaml==6.0.1
+chardet==5.2.0
+
+# 日志和调试
+coloredlogs==15.0.1
